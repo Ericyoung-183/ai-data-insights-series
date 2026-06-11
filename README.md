@@ -12,7 +12,7 @@ Discussion: https://github.com/Ericyoung-183/ai-data-insights-series/discussions
 
 ## Published
 
-- [中文总纲：可信取数+深度业务洞察：企业 AI 分析师的八层架构](zh/eight-layer-architecture.md)
+- [中文总论：可信取数+深度业务洞察：企业 AI 分析师的八层架构](zh/eight-layer-architecture.md)
 - [English Overview: Trustworthy Numbers, Deeper Business Questions: An Eight-Layer Architecture for Enterprise AI Analysts](en/eight-layer-architecture.md)
 
 ## Core Thesis
