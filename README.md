@@ -6,6 +6,8 @@ This repository archives public articles on enterprise AI analytics, trustworthy
 
 作者 / Author: Eric Young-ANT Group (Ericyang.nna@gmail.com)
 
+Website: https://ericyoung-183.github.io/ai-data-insights-series/
+
 ## Published
 
 - [中文 P0：可信取数+深度业务洞察：企业 AI 分析师的八层架构](zh/p0-eight-layer-architecture.md)
