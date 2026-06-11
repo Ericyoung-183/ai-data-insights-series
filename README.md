@@ -8,6 +8,8 @@ This repository archives public articles on enterprise AI analytics, trustworthy
 
 Website: https://ericyoung-183.github.io/ai-data-insights-series/
 
+Discussion: https://github.com/Ericyoung-183/ai-data-insights-series/discussions/1
+
 ## Published
 
 - [中文 P0：可信取数+深度业务洞察：企业 AI 分析师的八层架构](zh/p0-eight-layer-architecture.md)

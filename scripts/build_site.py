@@ -25,6 +25,7 @@ def page_shell(title: str, body: str, css_href: str, home_href: str, zh_href: st
       <nav class="nav" aria-label="Primary">
         <a href="{zh_href}">中文 P0</a>
         <a href="{en_href}">English P0</a>
+        <a href="https://github.com/Ericyoung-183/ai-data-insights-series/discussions/1">Discussion</a>
         <a href="https://github.com/Ericyoung-183/ai-data-insights-series">GitHub</a>
       </nav>
     </div>
@@ -69,6 +70,7 @@ def build_index() -> None:
     <section class="note" style="margin-top:18px">
       <p><strong>Note.</strong> All examples in these articles are synthetic. They do not refer to any real business, metric, data table, or internal system.</p>
       <p>Author: Eric Young-ANT Group (Ericyang.nna@gmail.com)</p>
+      <p><a href="https://github.com/Ericyoung-183/ai-data-insights-series/discussions/1">Join the discussion on GitHub</a></p>
     </section>
   </main>
 """
