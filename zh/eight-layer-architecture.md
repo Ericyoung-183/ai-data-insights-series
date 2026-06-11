@@ -79,7 +79,7 @@
 ## 4. 八层架构
 要做到这件事，至少要补齐八层能力。
 
-![可信取数+深度业务洞察八层架构](../assets/p0_eight_layer_architecture_cn.png)
+![可信取数+深度业务洞察八层架构](../assets/eight_layer_architecture_cn.png)
 
 | 层级 | 核心问题 | 常见失败模式 | 系统解法 |
 | --- | --- | --- | --- |

@@ -85,7 +85,7 @@ In short: Text-to-SQL solves “from language to query.” The semantic layer so
 ## 4. The Eight-Layer Architecture
 To make this possible, enterprises need at least eight layers of capability.
 
-![Eight-layer architecture for trustworthy data retrieval and deep business insight](../assets/p0_eight_layer_architecture_en.png)
+![Eight-layer architecture for trustworthy data retrieval and deep business insight](../assets/eight_layer_architecture_en.png)
 
 | Layer | Core question | Common failure mode | System solution |
 | --- | --- | --- | --- |
